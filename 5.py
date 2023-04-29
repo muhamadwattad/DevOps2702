@@ -1,11 +1,11 @@
-isTrue = False
-a = 2
+isTrue = True
+a = 4
 b = 2.5
 strOne = "One"
 strThree = "Three"
+aaaa = 4541
 
-
-if a > b and (strOne == "One" or b > 1):
+if a > b and (strOne == "One" or b > 1):  # if/else
     print("a is greater than b")
 elif a == b:  # or u can do a is b
     print("a equals b")
